@@ -55,13 +55,13 @@ public class App {
 
         // /// set2 contains some common elements with set1, and some new
 
-        // Set<String> set2 = new TreeSet<String>();
+        Set<String> set2 = new TreeSet<String>();
 
-        // set2.add("dog");
-        // set2.add("cat");
-        // set2.add("giraffe");
-        // set2.add("monkey");
-        // set2.add("ant");
+        set2.add("dog");
+        set2.add("cat");
+        set2.add("giraffe");
+        set2.add("monkey");
+        set2.add("ant");
 
         // ////////////// Intersection ///////////////////
 
