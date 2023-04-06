@@ -1,3 +1,3 @@
-# Full-Stack-Tutorial
+# JAVA Collection Framework
 
-JAVA and Spring codes for full stack web development tutorial!
+JAVA collection codes for quick referral
